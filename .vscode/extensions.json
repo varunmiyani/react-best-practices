@@ -2,7 +2,6 @@
 	"recommendations": [
 		"dbaeumer.vscode-eslint",
 		"esbenp.prettier-vscode",
-		"rangav.vscode-thunder-client",
 		"oderwat.indent-rainbow",
 		"pkief.material-icon-theme",
 		"dsznajder.es7-react-js-snippets",
