@@ -112,6 +112,10 @@ Powerful Utility tool
 
 used for date time operations
 
+`react-i18next`
+
+used for localization
+
 ### Best UI Templates
 
 `Bootstrap`
@@ -120,3 +124,33 @@ npm install react-bootstrap@next bootstrap@5.1.1
 https://react-bootstrap.github.io/getting-started/introduction
 
 import 'bootstrap/dist/css/bootstrap.min.css'; import these in app.js
+
+### Code Review
+
+use functional components with hooks
+
+import orders 1 packages 2 components or files 3 styles or constants
+
+tab space 2
+
+react
+
+configuration inside config folder
+
+environment configuration inside env folder
+
+all errors should be loged in error log file and in console
+
+remove all console log of data and comments before pushing
+
+all async buttons should disabled till required task is completed or failed
+
+every single api or async operations exception must be handled properly and
+appropriate message should be showen to user and error should be logged to file
+
+dummy routes must be redirect to 404 error page
+
+any unauthorized request must be redirect to root or home page and site should
+clear all local session and reset all state
+
+all static files should be stored inside public folder
