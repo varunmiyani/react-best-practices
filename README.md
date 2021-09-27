@@ -100,7 +100,7 @@ This section has moved here:
 
 ### Productivity Package
 
-`env-cmd`
+`npm i env-cmd`
 
 Env Configuration
 
@@ -108,13 +108,17 @@ Env Configuration
 
 Powerful Utility tool
 
-`moment`
+`npm i moment`
 
 used for date time operations
 
-`react-i18next`
+`npm i react-i18next`
 
 used for localization
+
+`npm i redux react-redux redux-persist redux-thunk`
+
+global state management
 
 ### Best UI Templates
 
